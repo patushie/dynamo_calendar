@@ -1,7 +1,7 @@
 name: dynamo_calendar
 description: "A Flutter project that Supports flexible and customizable calendar/date-time picker widget for Flutter applications, supporting multiple modes"
 
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/patushie/dynamo_calendar
 homepage: https://github.com/patushie/dynamo_calendar
