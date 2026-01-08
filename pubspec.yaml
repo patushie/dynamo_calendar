@@ -1,0 +1,30 @@
+name: dynamo_data_table
+description: "A Flutter project that creates a feature-rich data table (grid), column-filtering, sorting, pagination, grouping, summary rows and formulas."
+
+version: 1.0.0
+
+repository: https://github.com/patushie/dynamo_data_table
+homepage: https://github.com/patushie/dynamo_data_table
+issue_tracker: https://github.com/patushie/dynamo_data_table/issues
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  logger: ^2.4.0
+  intl: ^0.19.0
+  table_calendar: ^3.1.2
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true

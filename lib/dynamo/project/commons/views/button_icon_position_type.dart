@@ -1,0 +1,5 @@
+enum ButtonIconPositionType {
+  left,
+
+  right,
+}
