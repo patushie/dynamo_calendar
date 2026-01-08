@@ -1,7 +1,7 @@
 // ignore_for_file: comment_references
 
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/message_type.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/handlers/dynamo_commons.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/message_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/handlers/dynamo_commons.dart';
 import 'package:flutter/material.dart';
 
 import 'button_icon_position_type.dart';

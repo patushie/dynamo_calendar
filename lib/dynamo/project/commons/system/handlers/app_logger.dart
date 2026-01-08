@@ -1,4 +1,4 @@
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/log_level.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/log_level.dart';
 import 'package:logger/logger.dart';
 
 /// A utility class for handling application-wide logging.

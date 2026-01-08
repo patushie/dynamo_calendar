@@ -3,8 +3,8 @@
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:dynamo_data_table/dynamo/project/commons/constants/pad_direction_type.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/log_level.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/constants/pad_direction_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/log_level.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 //

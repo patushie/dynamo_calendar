@@ -1,8 +1,8 @@
 // ignore_for_file: comment_references
 
-import 'package:dynamo_data_table/dynamo/project/commons/system/handlers/date_util.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/handlers/dynamo_commons.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/views/table_widget_commons.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/handlers/date_util.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/handlers/dynamo_commons.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/views/table_widget_commons.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 import 'package:table_calendar/table_calendar.dart';

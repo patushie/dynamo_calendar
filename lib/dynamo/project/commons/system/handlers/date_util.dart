@@ -1,10 +1,10 @@
 // ignore_for_file: comment_references
 
-import 'package:dynamo_data_table/dynamo/project/commons/constants/pad_direction_type.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/date_element_type.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/holiday_day_dto.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/holiday_orient_type.dart';
-import 'package:dynamo_data_table/dynamo/project/commons/system/entities/holiday_weekend_recognition_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/constants/pad_direction_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/date_element_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/holiday_day_dto.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/holiday_orient_type.dart';
+import 'package:dynamo_calendar/dynamo/project/commons/system/entities/holiday_weekend_recognition_type.dart';
 import 'package:intl/intl.dart';
 
 import 'dynamo_commons.dart';
