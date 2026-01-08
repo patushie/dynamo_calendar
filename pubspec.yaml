@@ -1,11 +1,11 @@
-name: dynamo_data_table
-description: "A Flutter project that creates a feature-rich data table (grid), column-filtering, sorting, pagination, grouping, summary rows and formulas."
+name: dynamo_calendar
+description: "A Flutter project that Supports flexible and customizable calendar/date-time picker widget for Flutter applications, supporting multiple modes"
 
 version: 1.0.0
 
-repository: https://github.com/patushie/dynamo_data_table
-homepage: https://github.com/patushie/dynamo_data_table
-issue_tracker: https://github.com/patushie/dynamo_data_table/issues
+repository: https://github.com/patushie/dynamo_calendar
+homepage: https://github.com/patushie/dynamo_calendar
+issue_tracker: https://github.com/patushie/dynamo_calendar/issues
 
 environment:
   sdk: ^3.0.0
